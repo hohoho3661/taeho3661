@@ -17,7 +17,8 @@ bool FrameRenderTest::Init()
 {
 	_background = new Image;
 	_background->Init(TEXT("Image/background.bmp"), WINSIZEX, WINSIZEY);
-
+	// Test
+	// Test
 	
 	player = new Player;
 	monster = new Monster;
